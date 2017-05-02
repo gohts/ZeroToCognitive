@@ -11,4 +11,3 @@ applications:
     - Text to Speech-p6
     - Natural Language Classifier-ho
     - Cloudant NoSQL DB-xz
-    - AlchemyAPI-xx
